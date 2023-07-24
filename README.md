@@ -4,7 +4,7 @@ _Software Engineer & Musician_
 
 👨‍🦱🏳‍🌈 he/him
 
-* 💼 Currently CTO at [Vuxx][]
+* 💼 CTO at [Vuxx][]
 * 🧩 Solving challenges with product and software mindsets
 * 🤓 Exploring new technologies, understanding software at a deeper level
 * 🏛️ Architecture, Domain-driven design and pragmatism: good design should _decrease_ cost
@@ -14,12 +14,12 @@ _Software Engineer & Musician_
 
 ### Tech Stack
 
-* Back-end: Python, PHP, Node.js + TypeScript
+* Back-end: Python, PHP, Go, Node.js + TypeScript
 * PostgreSQL
 * Automation and DevOps: Docker, Ansible, Terraform, Nomad
 * Android / Kotlin, Vue.js
 
-Also interested in: Elixir, Go, Rust, Scala
+Also interested in: Elixir, Rust, Scala
 
 [MSc-repo]: https://github.com/edudobay/bayes-binary-decision
 [MSc-thesis]: https://teses.usp.br/teses/disponiveis/43/43134/tde-22012015-135228/en.php
