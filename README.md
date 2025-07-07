@@ -4,7 +4,7 @@ _Software Engineer & Musician_
 
 👨‍🦱🏳‍🌈 he/him
 
-* 💼 Formetly CTO at [Vuxx][]
+* 💼 Formerly CTO at [Vuxx][]
 * 🧩 Solving challenges with product and software mindsets
 * 🤓 Exploring new technologies, understanding software at a deeper level
 * 🏛️ Architecture, Domain-driven design and pragmatism: good design should _decrease_ cost
