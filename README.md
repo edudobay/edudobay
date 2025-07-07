@@ -4,7 +4,7 @@ _Software Engineer & Musician_
 
 👨‍🦱🏳‍🌈 he/him
 
-* 💼 CTO at [Vuxx][]
+* 💼 Formetly CTO at [Vuxx][]
 * 🧩 Solving challenges with product and software mindsets
 * 🤓 Exploring new technologies, understanding software at a deeper level
 * 🏛️ Architecture, Domain-driven design and pragmatism: good design should _decrease_ cost
@@ -14,7 +14,7 @@ _Software Engineer & Musician_
 
 ### Tech Stack
 
-* Back-end: Python, PHP, Go, Node.js + TypeScript
+* Back-end: Python, PHP, Kotlin, Go, Node.js + TypeScript
 * PostgreSQL
 * Automation and DevOps: Docker, Ansible, Terraform, Nomad
 * Android / Kotlin, Vue.js
